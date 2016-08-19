@@ -1,4 +1,4 @@
-$(function() {
+$(function() {																																
 
 
 	//auto collapsing responsive navbar

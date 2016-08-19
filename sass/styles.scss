@@ -262,7 +262,7 @@ body
 	background: url(img/footbal.jpg) center top no-repeat;	
 	background-size: 100% 100%;
 	text-align: center;
-	font-size: 30px;
+	font-size: 40px;
 	font-family: 'Indie Flower', cursive;
 
 	p
@@ -369,7 +369,7 @@ body
 
 	.moretolearn
 	{
-		padding-top: 100px;
+		padding-top: 50px;
 	}
 	.angular
 	{
@@ -378,6 +378,7 @@ body
 	.jquery
 	{
 		margin-top: 30px;
+		margin-bottom: 30px;
 	}
 	.interests
 	{
@@ -390,6 +391,19 @@ body
 	.graduation
 	{
 		padding-top: 100px;
+		padding-bottom: 50px;
+	}
+	.sass
+	{
+		margin-bottom: 30px;
+	}
+	.drupal
+	{
+		margin-top: 30px;
+	}
+	.soccer
+	{
+		padding-bottom: 100px;
 	}
 }
 
@@ -490,7 +504,7 @@ input[type=submit]
 {
 	background-color: #FFDA3E;
 	height: 250px;
-	margin-top: 15px;
+	margin-top: 15px;					
 }
 .linux
 {
